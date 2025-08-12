@@ -1,10 +1,12 @@
  Zerodha Clone
-📌 Project Overview
+ 
+Project Overview
 The Zerodha Clone is a frontend project replicating the clean, responsive, and intuitive design of India's leading stockbroking platform — Zerodha. Built using React.js (with TailwindCSS for styling), this project recreates the user interface and experience of Zerodha’s landing pages and an integrated dashboard.
 
 The goal is to offer a realistic simulation of Zerodha’s platform while serving as a hands-on React.js learning project.
 
-🏗 Project Structure
+
+ Project Structure
 1. Landing Pages
 HomePage.jsx – Combines Hero, Awards, Stats, Pricing, Education, and OpenAccount sections.
 
@@ -37,19 +39,21 @@ Links – Placeholder navigation to simulate real-world redirections.
 4. Routing
 Signup.jsx – Simulates an external account creation process.
 
-📊 Dashboard
+
+ Dashboard
 The dashboard is built using React.js, TailwindCSS, and the MERN stack for realistic brokerage-like portfolio management.
 
 Features
-🔐 User Authentication (Login/Logout)
 
-📈 Real-time Stock Data
+ User Authentication (Login/Logout)
 
-💰 Order Management (Buy/Sell)
+ Real-time Stock Data
 
-📊 Portfolio Overview
+ Order Management (Buy/Sell)
 
-📉 Interactive Charts
+ Portfolio Overview
+
+ Interactive Charts
 
 Key Dashboard Components
 Apps.jsx – Main interface for dashboard applications.
@@ -82,7 +86,7 @@ VerticalGraph.jsx – Bar graph comparison.
 
 WatchList.jsx – Track monitored stocks.
 
-📂 File Structure
+ File Structure
 css
 Copy
 Edit
@@ -134,12 +138,12 @@ bash
 Copy
 Edit
 npm start
-🚀 Usage
+ Usage
 Once running locally:
 
 Navigate through the landing pages to explore the Zerodha-like UI.
 
 Use the dashboard to simulate buying/selling stocks, monitoring holdings, and viewing portfolio performance.
 
-📜 License
+ License
 This project is for educational purposes only and is not affiliated with Zerodha.
